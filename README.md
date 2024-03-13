@@ -43,7 +43,7 @@ Windows Presentation Foundation
 
 
 ### Požadavky a závislosti
-Po zanedbání zpoždění internetového připojení by se nové příspěvky neměli načítat déle než 2s. 
+Po zanedbání zpoždění internetového připojení by se nové příspěvky neměli načítat déle než 5s. 
 
 
 # Požadavky na rozhraní
@@ -57,17 +57,52 @@ N/A
 N/A
 
 # Vlastnosti systému
-## Vlastnost _ - 
-- ID:
-- Typ:
-- Vlastník:
-- Priorita:
-- Urgence:
+## Vlastnost A - Tvorba témat
+- ID: A1
+- Typ: Funkční
+- Vlastník: Vyučující předmětu MVOP-PVA
+- Priorita: Vysoká
+- Urgence: Střední
 
 ### Popis
-
+Po stisknutí určeného tlačítka dostane Uživatel možnost zadat jméno tématu. Po potvrzení se v souborech vytvoří nová složka se jménem které uživatel poskytnul. Uvnitř složky se vytvoří soubor obsahující všechny RSS odkazy určené pro dané téma a později se sem budou ukládat soubory RSS. 
 
 ### Kritérium akceptovatelnosti
-
+Po zadání jména a potvrzení se vytvoří nová složka se jménem tématu a program jí uvidí a bude schopen s ní pracovat.
 
 ### Souvislosti
+Zatím žádné
+
+
+
+## Vlastnost B - Přidání RSS odkazu
+- ID: 2A
+- Typ: Funkční
+- Vlastník: Vyučující předmětu MVOP-PVA 
+- Priorita: Vysoká
+- Urgence: Střední
+
+### Popis
+Po stisknutí určitého tlačítka se otevře textové pole díky kterému bude uživatel schopen měnit list RSS odkazů jednotlivých témat. Tento list se poté bude ukládat ve složce příslušného tématu.
+
+### Kritérium akceptovatelnosti
+Uživatel je skrze aplikaci schopen měnit list RSS odkazů jednotlivých témat.
+
+### Souvislosti
+1A: Tvorba témat 
+
+
+## Vlastnost C -  
+- ID: 3A
+- Typ: Funkční
+- Vlastník: Vyučující předmětu MVOP-PVA 
+- Priorita: Vysoká
+- Urgence: Střední
+
+### Popis 
+
+  
+### Kritérium akceptovatelnosti 
+
+  
+### Souvislosti 
