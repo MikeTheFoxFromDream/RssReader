@@ -31,7 +31,7 @@ Produkt bude okenní aplikace spouštěná přes .exe soubor.
 
 
 ### Funkce
-Po spuštění se otevře jednoduchá okenní aplikace. Hlavní funkcí programu bude možnost si vytvořit jednotlivé složky (témata) kterým pak bude uživatel moct přiřadit jednotlivé RSS odkazy. Po otevření složky či stištění příslušného tlačítka pro obnovení se načte nejnovější
+Po spuštění se otevře jednoduchá okenní aplikace. Hlavní funkcí programu bude možnost si vytvořit jednotlivé složky (témata), kterým pak bude uživatel moct přiřadit jednotlivé RSS odkazy. Po otevření složky či stištění příslušného tlačítka pro obnovení se načte nejnovější RSS soubor na jehož základě se uživateli zobrazí jednotlivé články. Každé téma rovněž bude mít dvě kategorie: "Nové" a "Historie". V kategorii "Nové" se budou zobrazovat pouze články, které vznikli od minulého načtení RSS. V kategorii "Historie" se budou zobrazovat články z celého nového souboru. 
 
 
 ### Provozní prostředí
@@ -48,7 +48,7 @@ Po zanedbání zpoždění internetového připojení by se nové příspěvky n
 
 # Požadavky na rozhraní
 ### Uživatelské rozhraní
-
+Uživatelské rozhraní se bude skládat ze 2 hlavních částí. Panel vpravo bude sloužit pro tvorbu nových či výběr a mazání již existujících témat. Rovněž zde pomocí určených tlačítek bude uživatel moct upravovat list RSS odkazů jednotlivých témat, či si načíst nový RSS soubor. V panelu napravo se pak budou zobrazovat jednotlivé články. V horní části pravého panelu pak bude moct uživatel přepínat mezi kategoriemi: "Nové" a "Historie". 
 
 ### Softwarové rozhraní
 N/A
@@ -57,4 +57,17 @@ N/A
 N/A
 
 # Vlastnosti systému
-## Vlastnost A - 
+## Vlastnost _ - 
+- ID:
+- Typ:
+- Vlastník:
+- Priorita:
+- Urgence:
+
+### Popis
+
+
+### Kritérium akceptovatelnosti
+
+
+### Souvislosti
