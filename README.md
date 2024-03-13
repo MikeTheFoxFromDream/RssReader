@@ -92,8 +92,25 @@ Uživatel je skrze aplikaci schopen měnit list RSS odkazů jednotlivých témat
 1A: Tvorba témat 
 
 
-## Vlastnost C -  
+## Vlastnost C - Obnovení RSS souborů
 - ID: 3A
+- Typ: Funkční
+- Vlastník: Vyučující předmětu MVOP-PVA 
+- Priorita: Vysoká
+- Urgence: Střední
+
+### Popis 
+Po otevření témata či stištění určeného tlačítka program vyvolá všechny odkazy RSS a stáhne tak do příslušné složky všechny nové soubory RSS. Hned po té co se stáhnou všechny RSS soubory se také začnou formovat z nich odozené články ().
+
+### Kritérium akceptovatelnosti 
+Po spuštění události jak přes otevření složky tak přes tlačítko se stáhnou požadované soubory, uloží se na správné místo a spustí se funkce zodpovědná za vyzobrazení článků.
+  
+### Souvislosti 
+???
+
+
+## Vlastnost _ - 
+- ID: A
 - Typ: Funkční
 - Vlastník: Vyučující předmětu MVOP-PVA 
 - Priorita: Vysoká
