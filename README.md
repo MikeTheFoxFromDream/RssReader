@@ -142,7 +142,7 @@ Zobrazují se články ze správného listu či hlášení o prázdnosti listu.
 
 
 # Nefunkční vlastnosti systému
-### Vlastnost A - Tvorba listu článků
+## Vlastnost A - Tvorba listu článků
 - ID: 1B
 - Typ: Nefunkční
 - Vlastník: Vyučující předmětu MVOP-PVA 
