@@ -116,24 +116,24 @@ Po spuštění události jak přes otevření složky tak přes tlačítko se st
 - Urgence: Střední
 
 ### Popis 
-Po vytvoření listu článků se spustí funkce zodpovědná za tvorbu článků. Pro každý požadovaný článek se vytvoří vlastní karta. Karta bude v levé části obsahovat obrázek (pokud nebude obrázek poskytnut tak bude existovat výchozí varianta) a v pravé části pak bude nadpisek článku. Celá karta bude fungovat jako kliknutelný odkaz, který uživatele nasměruje na článek.
+Po vybrání listu článků ([A5](https://github.com/MikeTheFoxFromDream/RssReader/edit/main/README.md#vlastnost-e---vybr%C3%A1n%C3%AD-listukategorie)) se spustí funkce zodpovědná za tvorbu článků. Pro každý požadovaný článek se vytvoří vlastní karta. Karta bude v levé části obsahovat obrázek (pokud nebude obrázek poskytnut tak bude existovat výchozí varianta) a v pravé části pak bude nadpisek článku. Celá karta bude fungovat jako kliknutelný odkaz, který uživatele nasměruje na článek.
   
 ### Kritérium akceptovatelnosti 
 Karty se utvoří v popsaném stylu a po kliknutí přesměrují uživatele na správnou stránku.
   
 ### Souvislosti 
-???
+5A - Vybírání listu/kategorie
 
 
-## Vlastnost D - Tvorba článků
-- ID: 4A
+## Vlastnost E - Vybrání listu/kategorie
+- ID: 5A
 - Typ: Funkční
 - Vlastník: Vyučující předmětu MVOP-PVA 
-- Priorita: Vysoká
+- Priorita: Střední
 - Urgence: Střední
 
 ### Popis 
-Po vytvoření listu článků se spustí funkce zodpovědná za tvorbu článků. Pro každý požadovaný článek se vytvoří vlastní karta. Karta bude v levé části obsahovat obrázek (pokud nebude obrázek poskytnut tak bude existovat výchozí varianta) a v pravé části pak bude nadpisek článku. Celá karta bude fungovat jako kliknutelný odkaz, který uživatele nasměruje na článek.
+
   
 ### Kritérium akceptovatelnosti 
 Karty se utvoří v popsaném stylu a po kliknutí přesměrují uživatele na správnou stránku.
