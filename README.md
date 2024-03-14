@@ -17,8 +17,7 @@ Zatím žádné další informace
 
 
 ### Kontakty
-- kontakt na autora: gruncl.michal@femboy.in
-- kontakt na organizaci: info@femboy.in
+- kontakt na autora: gruncl.mi.2021@skola.ssps.cz
 
 
 ### Odkazy na další dokumenty
@@ -99,7 +98,7 @@ Uživatel je skrze aplikaci schopen měnit list RSS odkazů jednotlivých témat
 - Urgence: Střední
 
 ### Popis 
-Po otevření témata či stištění určeného tlačítka program vyvolá všechny odkazy RSS a stáhne tak do příslušné složky všechny nové soubory RSS. Hned po té co se stáhnou všechny RSS soubory se také začne formovat list požadovaných článků().
+Po otevření témata či stištění určeného tlačítka program vyvolá všechny odkazy RSS a stáhne tak do příslušné složky všechny nové soubory RSS. Hned po té co se stáhnou všechny RSS soubory se také začne formovat list požadovaných článků [].
 
 ### Kritérium akceptovatelnosti 
 Po spuštění události jak přes otevření složky tak přes tlačítko se stáhnou požadované soubory, uloží se na správné místo a spustí se funkce zodpovědná za tvorbu listu požadovaných článků. 
@@ -133,10 +132,10 @@ Karty se utvoří v popsaném stylu a po kliknutí přesměrují uživatele na s
 - Urgence: Střední
 
 ### Popis 
+Na vrchu stránky se bude dát pomocí přepínače změnit zda se nám ukazují články z listu nových článků či z listu všech článků. V základu bude nastaven s tav kdy se ukazují pouze nové články. Pokud bude list článků prázdný, tak se na panelu zobrazí příslušné hlášení.
 
-  
 ### Kritérium akceptovatelnosti 
-Karty se utvoří v popsaném stylu a po kliknutí přesměrují uživatele na správnou stránku.
+Zobrazují se články ze správného listu či hlášení o prázdnosti listu.
   
 ### Souvislosti 
 ???
