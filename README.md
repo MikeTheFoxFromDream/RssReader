@@ -55,7 +55,7 @@ N/A
 ### Hardwarové rozhraní
 N/A
 
-# Vlastnosti systému
+# Funkční vlastnosti systému
 ## Vlastnost A - Tvorba témat
 - ID: A1
 - Typ: Funkční
@@ -136,6 +136,24 @@ Na vrchu stránky se bude dát pomocí přepínače změnit zda se nám ukazují
 
 ### Kritérium akceptovatelnosti 
 Zobrazují se články ze správného listu či hlášení o prázdnosti listu.
+  
+### Souvislosti 
+???
+
+
+# Nefunkční vlastnosti systému
+### Vlastnost A - Tvorba listu článků
+- ID: 1B
+- Typ: Nefunkční
+- Vlastník: Vyučující předmětu MVOP-PVA 
+- Priorita: Vysoká
+- Urgence: Střední
+
+### Popis 
+Po načtení RSS souborů budeme muset zformulovat články do listu seřazeného podle data vydání článku. 
+
+### Kritérium akceptovatelnosti 
+
   
 ### Souvislosti 
 ???
