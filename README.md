@@ -74,7 +74,6 @@ Po zadání jména a potvrzení se vytvoří nová složka se jménem tématu a 
 Zatím žádné
 
 
-
 ## Vlastnost B - Přidání RSS odkazu
 - ID: 2A
 - Typ: Funkční
@@ -100,26 +99,44 @@ Uživatel je skrze aplikaci schopen měnit list RSS odkazů jednotlivých témat
 - Urgence: Střední
 
 ### Popis 
-Po otevření témata či stištění určeného tlačítka program vyvolá všechny odkazy RSS a stáhne tak do příslušné složky všechny nové soubory RSS. Hned po té co se stáhnou všechny RSS soubory se také začnou formovat z nich odozené články ().
+Po otevření témata či stištění určeného tlačítka program vyvolá všechny odkazy RSS a stáhne tak do příslušné složky všechny nové soubory RSS. Hned po té co se stáhnou všechny RSS soubory se také začne formovat list požadovaných článků().
 
 ### Kritérium akceptovatelnosti 
-Po spuštění události jak přes otevření složky tak přes tlačítko se stáhnou požadované soubory, uloží se na správné místo a spustí se funkce zodpovědná za vyzobrazení článků.
+Po spuštění události jak přes otevření složky tak přes tlačítko se stáhnou požadované soubory, uloží se na správné místo a spustí se funkce zodpovědná za tvorbu listu požadovaných článků. 
   
 ### Souvislosti 
 ???
 
 
-## Vlastnost _ - 
-- ID: A
+## Vlastnost D - Tvorba článků
+- ID: 4A
 - Typ: Funkční
 - Vlastník: Vyučující předmětu MVOP-PVA 
 - Priorita: Vysoká
 - Urgence: Střední
 
 ### Popis 
-
+Po vytvoření listu článků se spustí funkce zodpovědná za tvorbu článků. Pro každý požadovaný článek se vytvoří vlastní karta. Karta bude v levé části obsahovat obrázek (pokud nebude obrázek poskytnut tak bude existovat výchozí varianta) a v pravé části pak bude nadpisek článku. Celá karta bude fungovat jako kliknutelný odkaz, který uživatele nasměruje na článek.
   
 ### Kritérium akceptovatelnosti 
-
+Karty se utvoří v popsaném stylu a po kliknutí přesměrují uživatele na správnou stránku.
   
 ### Souvislosti 
+???
+
+
+## Vlastnost D - Tvorba článků
+- ID: 4A
+- Typ: Funkční
+- Vlastník: Vyučující předmětu MVOP-PVA 
+- Priorita: Vysoká
+- Urgence: Střední
+
+### Popis 
+Po vytvoření listu článků se spustí funkce zodpovědná za tvorbu článků. Pro každý požadovaný článek se vytvoří vlastní karta. Karta bude v levé části obsahovat obrázek (pokud nebude obrázek poskytnut tak bude existovat výchozí varianta) a v pravé části pak bude nadpisek článku. Celá karta bude fungovat jako kliknutelný odkaz, který uživatele nasměruje na článek.
+  
+### Kritérium akceptovatelnosti 
+Karty se utvoří v popsaném stylu a po kliknutí přesměrují uživatele na správnou stránku.
+  
+### Souvislosti 
+???
