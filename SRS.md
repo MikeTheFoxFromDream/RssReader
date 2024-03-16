@@ -132,10 +132,10 @@ Karty se utvoří v popsaném stylu a po kliknutí přesměrují uživatele na s
 - Urgence: Střední
 
 ### Popis 
-Na vrchu stránky se bude dát pomocí přepínače změnit zda se nám ukazují články z listu nových článků či z listu všech článků. V základu bude nastaven s tav kdy se ukazují pouze nové články. Pokud bude list článků prázdný, tak se na panelu zobrazí příslušné hlášení.
+Na vrchu stránky se bude dát pomocí přepínače změnit kategorie (Nové/Historie). V kategorii "Nové" se nám ukazují poze články nahrané po datu poslední obnvy, v "Historieů pak všechny. V základu bude nastaven stav kdy se ukazují pouze nové články. Pokud bude list článků prázdný, či nepřibudou žádné nové články, tak se na panelu zobrazí příslušné hlášení.
 
 ### Kritérium akceptovatelnosti 
-Zobrazují se články ze správného listu či hlášení o prázdnosti listu.
+Při vybrání katgorie Nové se budou ukazovat pouze nové články. Při vybrání kategorie Historie se nám zobrazí všechny články. Je-li daná kategrie prázdná, zobrazí se příslušné hlášení.
   
 ### Souvislosti 
 ???
@@ -150,7 +150,7 @@ Zobrazují se články ze správného listu či hlášení o prázdnosti listu.
 - Urgence: Střední
 
 ### Popis 
-Po načtení RSS souborů budeme muset zformulovat články do listu seřazeného podle data vydání článku. 
+Po načtení RSS souborů budeme muset uspořádat články do listu článků seřazeného podle data vydání. Záznam o každém článku by měl obsahovat: nadpis, datum vydání/úpravy, jméno autora a odkazy na článek příadně na náhledový obrázek.
 
 ### Kritérium akceptovatelnosti 
 
