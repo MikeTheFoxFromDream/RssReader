@@ -57,7 +57,7 @@ N/A
 
 # Funkční vlastnosti systému
 ## Vlastnost A - Tvorba témat
-- ID: A1
+- ID: 1A
 - Typ: Funkční
 - Vlastník: Vyučující předmětu MVOP-PVA
 - Priorita: Vysoká
