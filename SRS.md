@@ -70,7 +70,7 @@ Po stisknutí určeného tlačítka dostane Uživatel možnost zadat jméno tém
 Po zadání jména a potvrzení se vytvoří nová složka se jménem tématu a program jí uvidí a bude schopen s ní pracovat.
 
 ### Souvislosti
-Zatím žádné
+[2A - Přidání RSS odkazu](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-b---p%C5%99id%C3%A1n%C3%AD-rss-odkazu)
 
 
 ## Vlastnost B - Přidání RSS odkazu
@@ -81,7 +81,7 @@ Zatím žádné
 - Urgence: Střední
 
 ### Popis
-Po stisknutí určitého tlačítka se otevře textové pole díky kterému bude uživatel schopen měnit list RSS odkazů jednotlivých témat. Tento list se poté bude ukládat ve složce příslušného tématu.
+Po stisknutí určitého tlačítka se otevře textové pole díky kterému bude uživatel schopen měnit list RSS odkazů jednotlivých témat ([A1](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-a---tvorba-t%C3%A9mat)). Tento list se poté bude ukládat ve složce příslušného tématu.
 
 ### Kritérium akceptovatelnosti
 Uživatel je skrze aplikaci schopen měnit list RSS odkazů jednotlivých témat.
@@ -132,13 +132,13 @@ Karty se utvoří v popsaném stylu a po kliknutí přesměrují uživatele na s
 - Urgence: Střední
 
 ### Popis 
-Na vrchu stránky se bude dát pomocí přepínače změnit kategorie (Nové/Historie). V kategorii "Nové" se nám ukazují poze články nahrané po datu poslední obnovy, v "Historieů pak všechny. V základu bude nastaven stav kdy se ukazují pouze nové články. Pokud bude list článků prázdný, či nepřibudou žádné nové články, tak se na panelu zobrazí příslušné hlášení.
+Na vrchu stránky se bude dát pomocí přepínače změnit kategorie (Nové/Historie). V kategorii "Nové" se nám ukazují pouze články ([A4](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-d---tvorba-%C4%8Dl%C3%A1nk%C5%AF)) nahrané po datu poslední obnovy, v "Historieů pak všechny. V základu bude nastaven stav kdy se ukazují pouze nové články. Pokud bude list článků prázdný, či nepřibudou žádné nové články, tak se na panelu zobrazí příslušné hlášení.
 
 ### Kritérium akceptovatelnosti 
 Při vybrání katgorie Nové se budou ukazovat pouze nové články. Při vybrání kategorie Historie se nám zobrazí všechny články. Je-li daná kategrie prázdná, zobrazí se příslušné hlášení.
   
 ### Souvislosti 
-[4A - Tvorba článků](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-d---tvorba-%C4%8Dl%C3%A1nk%C5%AF))
+[4A - Tvorba článků](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-d---tvorba-%C4%8Dl%C3%A1nk%C5%AF)
 
 
 # Nefunkční vlastnosti systému
@@ -150,7 +150,7 @@ Při vybrání katgorie Nové se budou ukazovat pouze nové články. Při vybr�
 - Urgence: Střední
 
 ### Popis 
-Po načtení RSS souborů budeme muset uspořádat články do listu článků seřazeného podle data vydání. Záznam o každém článku by měl obsahovat: nadpis, datum vydání/úpravy, jméno autora a odkazy na článek příadně na náhledový obrázek.
+Po načtení RSS souborů ([A3](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-c---obnoven%C3%AD-rss-soubor%C5%AF)) budeme muset uspořádat články do listu článků seřazeného podle data vydání. Záznam o každém článku by měl obsahovat: nadpis, datum vydání/úpravy, jméno autora a odkazy na článek příadně na náhledový obrázek.
 
 ### Kritérium akceptovatelnosti 
 Po načtení nových RSS souborů se vytvoří list článků, kde každý záznam o článku obsahuje uvedené informace.
@@ -167,7 +167,7 @@ Po načtení nových RSS souborů se vytvoří list článků, kde každý zázn
 - Urgence: Střední
 
 ### Popis 
-Když nastane událost stahování nového souboru RSS tak ještě před započatím příslušných procesů se uloží informace o datu posledního nahraného příspěvku v aktuálním RSS souboru.
+Když nastane událost stahování nového souboru RSS ([A3](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-c---obnoven%C3%AD-rss-soubor%C5%AF)) tak ještě před započatím příslušných procesů se uloží informace o datu posledního nahraného příspěvku v aktuálním RSS souboru.
 
 ### Kritérium akceptovatelnosti 
 Před stáhnutím nového souboru se uloží v souborech datum posledního nahraného článku.
