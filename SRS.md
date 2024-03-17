@@ -153,7 +153,24 @@ Při vybrání katgorie Nové se budou ukazovat pouze nové články. Při vybr�
 Po načtení RSS souborů budeme muset uspořádat články do listu článků seřazeného podle data vydání. Záznam o každém článku by měl obsahovat: nadpis, datum vydání/úpravy, jméno autora a odkazy na článek příadně na náhledový obrázek.
 
 ### Kritérium akceptovatelnosti 
+Po načtení nových RSS souborů se vytvoří list článků, kde každý záznam o článku obsahuje uvedené informace.
+  
+### Souvislosti 
+???
 
+
+## Vlastnost B - Ukládání poseldního data
+- ID: 2B
+- Typ: Nefunkční
+- Vlastník: Vyučující předmětu MVOP-PVA 
+- Priorita: Vysoká
+- Urgence: Střední
+
+### Popis 
+Když nastane událost stahování nového souboru RSS tak ještě před započatím příslušných procesů se uloží informace o datu posledního nahraného příspěvku v aktuálním RSS souboru.
+
+### Kritérium akceptovatelnosti 
+Před stáhnutím nového souboru se uloží v souborech datum posledního nahraného článku.
   
 ### Souvislosti 
 ???
