@@ -87,7 +87,7 @@ Po stisknutí určitého tlačítka se otevře textové pole díky kterému bude
 Uživatel je skrze aplikaci schopen měnit list RSS odkazů jednotlivých témat.
 
 ### Souvislosti
-1A: Tvorba témat 
+1A - Tvorba témat 
 
 
 ## Vlastnost C - Obnovení RSS souborů
@@ -98,13 +98,13 @@ Uživatel je skrze aplikaci schopen měnit list RSS odkazů jednotlivých témat
 - Urgence: Střední
 
 ### Popis 
-Po otevření témata či stištění určeného tlačítka program vyvolá všechny odkazy RSS a stáhne tak do příslušné složky všechny nové soubory RSS. Hned po té co se stáhnou všechny RSS soubory se také začne formovat list požadovaných článků [].
+Po otevření témata či stištění určeného tlačítka program vyvolá všechny odkazy RSS a stáhne tak do příslušné složky všechny nové soubory RSS. Hned po té co se stáhnou všechny RSS soubory se také začne formovat list požadovaných článků ([1B](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-d---tvorba-%C4%8Dl%C3%A1nk%C5%AF)).
 
 ### Kritérium akceptovatelnosti 
 Po spuštění události jak přes otevření složky tak přes tlačítko se stáhnou požadované soubory, uloží se na správné místo a spustí se funkce zodpovědná za tvorbu listu požadovaných článků. 
   
 ### Souvislosti 
-???
+1B - Tvorba listu článků
 
 
 ## Vlastnost D - Tvorba článků
@@ -132,13 +132,13 @@ Karty se utvoří v popsaném stylu a po kliknutí přesměrují uživatele na s
 - Urgence: Střední
 
 ### Popis 
-Na vrchu stránky se bude dát pomocí přepínače změnit kategorie (Nové/Historie). V kategorii "Nové" se nám ukazují poze články nahrané po datu poslední obnvy, v "Historieů pak všechny. V základu bude nastaven stav kdy se ukazují pouze nové články. Pokud bude list článků prázdný, či nepřibudou žádné nové články, tak se na panelu zobrazí příslušné hlášení.
+Na vrchu stránky se bude dát pomocí přepínače změnit kategorie (Nové/Historie). V kategorii "Nové" se nám ukazují poze články nahrané po datu poslední obnovy, v "Historieů pak všechny. V základu bude nastaven stav kdy se ukazují pouze nové články. Pokud bude list článků prázdný, či nepřibudou žádné nové články, tak se na panelu zobrazí příslušné hlášení.
 
 ### Kritérium akceptovatelnosti 
 Při vybrání katgorie Nové se budou ukazovat pouze nové články. Při vybrání kategorie Historie se nám zobrazí všechny články. Je-li daná kategrie prázdná, zobrazí se příslušné hlášení.
   
 ### Souvislosti 
-???
+4A - Tvorba článků
 
 
 # Nefunkční vlastnosti systému
@@ -156,7 +156,7 @@ Po načtení RSS souborů budeme muset uspořádat články do listu článků s
 Po načtení nových RSS souborů se vytvoří list článků, kde každý záznam o článku obsahuje uvedené informace.
   
 ### Souvislosti 
-???
+3A - Obnovení RSS souborů
 
 
 ## Vlastnost B - Ukládání poseldního data
