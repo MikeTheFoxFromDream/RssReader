@@ -21,7 +21,7 @@ Zatím žádné další informace
 
 
 ### Odkazy na další dokumenty
-Zatím žádné další dokumenty
+- FS ([zde](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/FS.md))
 
 
 # Celkový popis
@@ -70,7 +70,7 @@ Po stisknutí určeného tlačítka dostane Uživatel možnost zadat jméno tém
 Po zadání jména a potvrzení se vytvoří nová složka se jménem tématu a program jí uvidí a bude schopen s ní pracovat.
 
 ### Souvislosti
-[2A - Přidání RSS odkazu](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-b---p%C5%99id%C3%A1n%C3%AD-rss-odkazu)
+- [2A - Přidání RSS odkazu](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-b---p%C5%99id%C3%A1n%C3%AD-rss-odkazu)
 
 
 ## Vlastnost B - Přidání RSS odkazu
@@ -87,7 +87,7 @@ Po stisknutí určitého tlačítka se otevře textové pole díky kterému bude
 Uživatel je skrze aplikaci schopen měnit list RSS odkazů jednotlivých témat.
 
 ### Souvislosti
-[1A - Tvorba témat](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-a---tvorba-t%C3%A9mat) 
+- [1A - Tvorba témat](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-a---tvorba-t%C3%A9mat) 
 
 
 ## Vlastnost C - Obnovení RSS souborů
@@ -104,7 +104,8 @@ Po otevření témata či stištění určeného tlačítka program vyvolá vše
 Po spuštění události jak přes otevření složky tak přes tlačítko se stáhnou požadované soubory, uloží se na správné místo a spustí se funkce zodpovědná za tvorbu listu požadovaných článků. 
   
 ### Souvislosti 
-[1B - Tvorba listu článků](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-d---tvorba-%C4%8Dl%C3%A1nk%C5%AF), [2B - Ukládání poseldního data](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-d---tvorba-%C4%8Dl%C3%A1nk%C5%AF)
+- [1B - Tvorba listu článků](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-d---tvorba-%C4%8Dl%C3%A1nk%C5%AF)
+- [2B - Ukládání poseldního data](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-d---tvorba-%C4%8Dl%C3%A1nk%C5%AF)
 
 
 ## Vlastnost D - Tvorba článků
@@ -121,7 +122,7 @@ Po vybrání listu článků ([A5](https://github.com/MikeTheFoxFromDream/RssRea
 Karty se utvoří v popsaném stylu a po kliknutí přesměrují uživatele na správnou stránku.
   
 ### Souvislosti 
-[5A - Vybírání listu/kategorie](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-d---tvorba-%C4%8Dl%C3%A1nk%C5%AF)
+- [5A - Vybírání listu/kategorie](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-d---tvorba-%C4%8Dl%C3%A1nk%C5%AF)
 
 
 ## Vlastnost E - Vybrání listu/kategorie
@@ -138,7 +139,7 @@ Na vrchu stránky se bude dát pomocí přepínače změnit kategorie (Nové/His
 Při vybrání katgorie Nové se budou ukazovat pouze nové články. Při vybrání kategorie Historie se nám zobrazí všechny články. Je-li daná kategrie prázdná, zobrazí se příslušné hlášení.
   
 ### Souvislosti 
-[4A - Tvorba článků](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-d---tvorba-%C4%8Dl%C3%A1nk%C5%AF)
+- [4A - Tvorba článků](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-d---tvorba-%C4%8Dl%C3%A1nk%C5%AF)
 
 
 # Nefunkční vlastnosti systému
@@ -156,7 +157,7 @@ Po načtení RSS souborů ([A3](https://github.com/MikeTheFoxFromDream/RssReader
 Po načtení nových RSS souborů se vytvoří list článků, kde každý záznam o článku obsahuje uvedené informace.
   
 ### Souvislosti 
-[3A - Obnovení RSS souborů](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-c---obnoven%C3%AD-rss-soubor%C5%AF)
+- [3A - Obnovení RSS souborů](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-c---obnoven%C3%AD-rss-soubor%C5%AF)
 
 
 ## Vlastnost B - Ukládání poseldního data
@@ -173,4 +174,4 @@ Když nastane událost stahování nového souboru RSS ([A3](https://github.com/
 Před stáhnutím nového souboru se uloží v souborech datum posledního nahraného článku.
   
 ### Souvislosti 
-[3A - Obnovení RSS souborů](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-c---obnoven%C3%AD-rss-soubor%C5%AF)
+- [3A - Obnovení RSS souborů](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/SRS.md#vlastnost-c---obnoven%C3%AD-rss-soubor%C5%AF)
