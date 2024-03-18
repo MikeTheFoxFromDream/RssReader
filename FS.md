@@ -40,7 +40,7 @@ Po stisknutí tlačítka **Nové téma** se otevře okénko **Název tématu** o
 ### Možnosti s tématy
 Každé téma bude reprezenrováno kartou na **Listu témat**. Na každé kartě budou přítomna dvě tlačítka: **Smazat** (označené křížkem) a **Nastavení tématu** (označené ikonou ozubeného kolečka)
 - Po stištění tlačítka **Smazat** se smaže složka o daném tématu uložená v souborech i se všemi dokumenty v ní. Dále jejho karta bude odebrána z **Listu témat**.
-- Po stištění tlačítka **Nastavení tématu** se otevře okénko **List odkazů**. (více v kapitole: [Možnosti listu odkazů]())
+- Po stištění tlačítka **Nastavení tématu** se otevře okénko **List odkazů**. (více v kapitole: [Možnosti listu odkazů](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/FS.md#mo%C5%BEnosti-listu-odkaz%C5%AF))
 
 ### Možnosti listu odkazů
 V okénku bude listview **Odkazy**, tlačítko **Přidat odkaz** a každý odakz v listu bude opatřen tlačítkem **Smazat odkaz** (označeno křížkem).
@@ -51,3 +51,5 @@ V okénku bude listview **Odkazy**, tlačítko **Přidat odkaz** a každý odakz
 | :----: | :--------------: | :-----: |
 | 1. | Vše je v pořádku | Správný výsledek |
 | 2. | V textovém poli nic není | Nad textovím polem se oběví červený nápis "Jméno nesmí být prázdné"  |
+
+### Prohlížení tématu
