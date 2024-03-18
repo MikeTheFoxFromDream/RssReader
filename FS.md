@@ -53,4 +53,9 @@ V okénku bude listview **Odkazy**, tlačítko **Přidat odkaz** a každý odakz
 | 2. | V textovém poli nic není | Nad textovím polem se oběví červený nápis "Jméno nesmí být prázdné" |
 
 ### Prohlížení tématu
-Po kliknutí na kartu tématu (mimo vyhrazená tlačítka) v viewlistu **List témat** se ve viewlistu **List článku** oběví karty reprezentující jednotlivé články (**Článek** je příklad rozložení takovéto karty) seřazenné podle data vydání článku. Pokud se tak stalo poprvé pro dané téma od začátku běhu instance programu, stáhnou se nové RSS soubory a spracují se do listu soubor "ListClanku".
+Po kliknutí na kartu tématu (mimo vyhrazená tlačítka) na viewlistu **List témat** se ve viewlistu **List článku** oběví karty reprezentující jednotlivé články (**Článek** je příklad rozložení takovéto karty) seřazenné podle data vydání článku. Pokud se tak stalo poprvé pro dané téma od začátku běhu instance programu, stáhnou se nové RSS soubory a spracují se do listu v soubor "ListClanku".
+
+| číslo  | Když... | Pak... |
+| :----: | :----: | :----: |
+| 1. | První kliknutí na téma od začátku běhu programu. | Stáhnou se nové soubory RSS, spracují se do listu a článků a zobrazí se jednotlivé články. |
+| 2. | Druhé či více kliknutí na téma od začátku běhu programu. | Zobrazí se jednotlivé články načtené z listu článků. |
