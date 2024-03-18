@@ -32,10 +32,10 @@ Zvýrazněný text odkazuje na obrázky v kapitole "Hlavní moduly"
 Po stisknutí tlačítka **Nové téma** se otevře okénko **Název tématu** obsahující textové pole s placeholderem "Jméno", tlačítko **Přidat** a tlačítko **Zrušit**. Je-li v textovém poli alespoň jeden znak a zároveň neobsahuje ani jeden ze zakázaných znaků (/, , :, *, ?, ", <, >, |, ~ ), vytvoří se po stisknutí tlačítka **Přidat** nová složka v souborech, se jménem, které bylo uvedeno v textovém boxu, v níž také bude vytovřen soubor "RSSOdkazy", v němž budou uchovávány veškeré RSS odkazy daného tématu. Rovněž se ve listview **témata** oběvý nová položka nesoucí totéž jméno. Zmáčkne-li uživatel tlačítko **Zrušit** okénko se zavře. 
 
 | číslo  | Když... | Pak... |
-| :----: | :--------------: | :-----: |
+| :----: | :----: | :----: |
 | 1. | Vše je v pořádku | Správný výsledek |
 | 2. | V textovém poli nic není | Nad textovím polem se oběví červený nápis "Jméno nesmí být prázdné"  |
-| 3. | V textovém poli je zakázaný znak | Nad textovím polem se oběví červený nápis "Pole nesmí obsahovat tyto znaky "/ :*?"<>|~" "
+| 3. | V textovém poli je zakázaný znak | Nad textovím polem se oběví červený nápis "Pole nesmí obsahovat tyto znaky "/ :*?"<>|~" " |
 
 ### Možnosti s tématy
 Každé téma bude reprezenrováno kartou na **Listu témat**. Na každé kartě budou přítomna dvě tlačítka: **Smazat** (označené křížkem) a **Nastavení tématu** (označené ikonou ozubeného kolečka)
@@ -48,8 +48,9 @@ V okénku bude listview **Odkazy**, tlačítko **Přidat odkaz** a každý odakz
 - Po stištění tlačítka **Přidat odkaz** se objeví okénko **Text odkazu** obsahující textové pole s placeholderem "Odkaz", tlačítkem **Přidat odkaz** a tlačítko **Zrušit**. . Je-li v textovém poli alespoň jeden znak vytvoří se po stisknutí tlačítka **Přidat odkaz** nový záznam v listview a rovněž budou informace o jeho existenci zapsány do souboru obsahujícím všechny RSS odkazy.
 
 | číslo  | Když... | Pak... |
-| :----: | :--------------: | :-----: |
+| :----: | :----: | :----: |
 | 1. | Vše je v pořádku | Správný výsledek |
-| 2. | V textovém poli nic není | Nad textovím polem se oběví červený nápis "Jméno nesmí být prázdné"  |
+| 2. | V textovém poli nic není | Nad textovím polem se oběví červený nápis "Jméno nesmí být prázdné" |
 
 ### Prohlížení tématu
+Po kliknutí na kartu tématu (mimo vyhrazená tlačítka) v viewlistu **List témat** se ve viewlistu **List článku** oběví karty reprezentující jednotlivé články (**Článek** je příklad rozložení takovéto karty) seřazenné podle data vydání článku. Pokud se tak stalo poprvé pro dané téma od začátku běhu instance programu, stáhnou se nové RSS soubory a spracují se do listu soubor "ListClanku".
