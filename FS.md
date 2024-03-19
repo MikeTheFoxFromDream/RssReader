@@ -60,6 +60,7 @@ Po kliknutí na kartu tématu (mimo vyhrazená tlačítka) na viewlistu **List t
 | 1. | První kliknutí na téma od začátku běhu programu. | Stáhnou se nové soubory RSS, spracují se do listu a článků a zobrazí se jednotlivé články. |
 | 2. | Druhé či více kliknutí na téma od začátku běhu programu. | Zobrazí se jednotlivé články načtené z listu článků. |
 
+
 ### Přepínání kategorie
 Po kliknutí na binární přepínač **Přepínač kategorií** se změní kategorie prohlížení. Uživatel může přepínat mezi dvěmi kategoriemi: "Nové" a "Historie". Po přepnutí kategorie se znovu spustí funkce zodpovědná za zobrazování článků.
 - Pokud je nastavená kategorie "Nové", při zobrazování článků se zobrazí pouze články nahrané od doby posledního načtení RSS souborů.
@@ -71,4 +72,6 @@ Po kliknutí na kartu článku se v primárním prohlížeči otevře odkaz na �
 ## Hlavní moduly
 
 ### Hlavní okno
+Dva viewListy: **List Témat** a **List Článků**
 
+![Hlavní okno](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/img/HlavniOkno.png)
