@@ -45,7 +45,7 @@ Každé téma bude reprezenrováno kartou na **Listu témat**. Na každé kartě
 ### Možnosti listu odkazů
 V okénku bude listview **Odkazy**, tlačítko **Přidat odkaz** a každý odakz v listu bude opatřen tlačítkem **Smazat odkaz** (označeno křížkem).
 - Po stištění tlačítka **Smazat odkaz** se daný odkaz smaže ze souboru obsahujícím všechny RSS odkazy, dále se také vymaže záznam o jeho existenci z listview **Odkazy**.
-- Po stištění tlačítka **Přidat odkaz** se objeví okénko **Text odkazu** obsahující textové pole s placeholderem "Odkaz", tlačítkem **Přidat odkaz** a tlačítko **Zrušit**. . Je-li v textovém poli alespoň jeden znak vytvoří se po stisknutí tlačítka **Přidat odkaz** nový záznam v listview a rovněž budou informace o jeho existenci zapsány do souboru obsahujícím všechny RSS odkazy.
+- Po stištění tlačítka **Přidat odkaz** se objeví okénko **Přidání odkazu** obsahující textové pole s placeholderem "Odkaz", tlačítkem **Přidat odkaz** a tlačítko **Zrušit**. . Je-li v textovém poli alespoň jeden znak vytvoří se po stisknutí tlačítka **Přidat odkaz** nový záznam v listview a rovněž budou informace o jeho existenci zapsány do souboru obsahujícím všechny RSS odkazy.
 
 | číslo  | Když... | Pak... |
 | :----: | :----: | :----: |
@@ -72,6 +72,27 @@ Po kliknutí na kartu článku se v primárním prohlížeči otevře odkaz na �
 ## Hlavní moduly
 
 ### Hlavní okno
-Dva viewListy: **List Témat** a **List Článků**
+Dva viewListy, jeden pro témata **List témat** a druhý pro jdenotlivé články **List článků**. Tlačítko **Nové téma** které nám umožní přidat nové téma. Každé téma má také dvě tlačítka, **Nastavení tématu** (1.) pro změnu RSS odkazů a **Smazat téma** (2.) pro smazání tématu. Nad **Listem článků** máme **Přepínač kategorií** (3.). Dále pak máme v **Listu článků** dva příklady jednotlivých článků.
 
 ![Hlavní okno](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/img/HlavniOkno.png)
+1. = **Nastavení tématu**
+2. = **Smazat téma**
+3. = **Přepínač kategorií**
+
+
+### Název tématu
+Textové pole **Název tématu** pro uživatelský vstup zodpovědný za pojmenovámí nového tématu. Dvě tlačítka, **Přidat** pro dokončeení akce tvorby nového tématu a **Zrušit** pro stornování akce. Dále zde je červený text **Error Text** kde se bude zobrazovat případná chybová hlášení.
+
+![Název tématu](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/img/NoveTema.png)
+
+### List odkazů
+Dvě tlačítka, jedno pro přidání nového odkazu **Přidat odkaz** a druhé pro zavření okénka **Zavřít**. Je zde přítomné listview **Odkazy** v němž se shromažďují jednotlivé odkazy. Dále je zde reprezentace jednoho záznamu o odkazu **Odkaz** kde na levo je samotný odkaz a napravo je tlačítko **Smazat odkaz** (1.) které smaže záznam o daném odkazu.
+
+![List odkazů](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/img/Odkazy.png)
+1. = **Smazat odkaz**
+
+### Přidání odkazu
+Textové pole **Text odkazu** pro uživatelský vstup, zodpovědný za příjmutí RSS odkazu. Dvě tlačítka, **Přidat** pro dokončeení akce přijímání nového RSS odkazu a **Zrušit** pro stornování akce. Dále zde je červený text **Error Text** kde se bude zobrazovat případná chybová hlášení.
+
+
+![Přidání odkazu](https://github.com/MikeTheFoxFromDream/RssReader/blob/main/img/PridatOdkaz.png)
