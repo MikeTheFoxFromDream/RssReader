@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "System.ServiceModel.Syndication/9.0.0-preview.3.24172.9": {
+        "runtime": {
+          "lib/netstandard2.0/System.ServiceModel.Syndication.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.24.17209"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.ServiceModel.Syndication/9.0.0-preview.3.24172.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iezDfdw3NSzjH1/wsV5c3QmBYrEzR1xLCpu5HLZ3/k7uZzCK5uPhUE9HbfeO0KgTOuCoPovrdgj5wfvTn/ZaHA==",
+      "path": "system.servicemodel.syndication/9.0.0-preview.3.24172.9",
+      "hashPath": "system.servicemodel.syndication.9.0.0-preview.3.24172.9.nupkg.sha512"
+    }
+  }
+}

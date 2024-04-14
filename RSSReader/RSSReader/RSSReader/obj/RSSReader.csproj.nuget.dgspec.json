@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\RSSReader\\RSSReader\\RSSReader\\RSSReader.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSReader\\RSSReader\\RSSReader\\RSSReader.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\RSSReader\\RSSReader\\RSSReader\\RSSReader.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSReader\\RSSReader\\RSSReader\\RSSReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\RSSReader\\RSSReader\\RSSReader\\RSSReader.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSReader\\RSSReader\\RSSReader\\RSSReader.csproj",
         "projectName": "RSSReader",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\RSSReader\\RSSReader\\RSSReader\\RSSReader.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSReader\\RSSReader\\RSSReader\\RSSReader.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\RSSReader\\RSSReader\\RSSReader\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSReader\\RSSReader\\RSSReader\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0-windows"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,11 +39,22 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "System.ServiceModel.Syndication": {
+              "target": "Package",
+              "version": "[9.0.0-preview.3.24172.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -48,6 +66,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.18, 7.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -56,7 +92,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Admin\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
