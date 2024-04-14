@@ -11,4 +11,8 @@
       <PackageReference Include="SimpleFeedReader" Version="1.0.9" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Compile Remove="if_ykyk.cs" />
+    </ItemGroup>
+
 </Project>
