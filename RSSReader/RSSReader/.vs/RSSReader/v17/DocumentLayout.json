@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSReader\\RSSReader\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A87A6C78-F59A-4EC7-9222-701EDA7638EF}|RSSReader\\RSSReader.csproj|c:\\users\\admin\\documents\\github\\rssreader\\rssreader\\rssreader\\rssreader\\styles\\topiccard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A87A6C78-F59A-4EC7-9222-701EDA7638EF}|RSSReader\\RSSReader.csproj|solutionrelative:rssreader\\styles\\topiccard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A87A6C78-F59A-4EC7-9222-701EDA7638EF}|RSSReader\\RSSReader.csproj|c:\\users\\admin\\documents\\github\\rssreader\\rssreader\\rssreader\\rssreader\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87A6C78-F59A-4EC7-9222-701EDA7638EF}|RSSReader\\RSSReader.csproj|solutionrelative:rssreader\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A87A6C78-F59A-4EC7-9222-701EDA7638EF}|RSSReader\\RSSReader.csproj|c:\\users\\admin\\documents\\github\\rssreader\\rssreader\\rssreader\\rssreader\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A87A6C78-F59A-4EC7-9222-701EDA7638EF}|RSSReader\\RSSReader.csproj|solutionrelative:rssreader\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A87A6C78-F59A-4EC7-9222-701EDA7638EF}|RSSReader\\RSSReader.csproj|c:\\users\\admin\\documents\\github\\rssreader\\rssreader\\rssreader\\rssreader\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A87A6C78-F59A-4EC7-9222-701EDA7638EF}|RSSReader\\RSSReader.csproj|solutionrelative:rssreader\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A87A6C78-F59A-4EC7-9222-701EDA7638EF}|RSSReader\\RSSReader.csproj|c:\\users\\admin\\documents\\github\\rssreader\\rssreader\\rssreader\\rssreader\\styles\\topiccard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A87A6C78-F59A-4EC7-9222-701EDA7638EF}|RSSReader\\RSSReader.csproj|solutionrelative:rssreader\\styles\\topiccard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\.nuget\\packages\\system.servicemodel.syndication\\9.0.0-preview.3.24172.9\\buildTransitive\\netcoreapp2.0\\System.ServiceModel.Syndication.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -29,32 +29,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSReader\\RSSReader\\RSSReader\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "RSSReader\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSReader\\RSSReader\\RSSReader\\MainWindow.xaml.cs",
               "RelativeToolTip": "RSSReader\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAlwBgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T19:48:31.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TopicCard.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSReader\\RSSReader\\RSSReader\\styles\\TopicCard.xaml",
               "RelativeDocumentMoniker": "RSSReader\\styles\\TopicCard.xaml",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSReader\\RSSReader\\RSSReader\\styles\\TopicCard.xaml",
               "RelativeToolTip": "RSSReader\\styles\\TopicCard.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-14T19:42:17.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T19:42:17.25Z"
             },
             {
               "$type": "Document",
@@ -65,8 +64,7 @@
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSReader\\RSSReader\\RSSReader\\App.xaml",
               "RelativeToolTip": "RSSReader\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-14T16:54:30.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T16:54:30.738Z"
             },
             {
               "$type": "Document",
@@ -78,8 +76,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\.nuget\\packages\\system.servicemodel.syndication\\9.0.0-preview.3.24172.9\\buildTransitive\\netcoreapp2.0\\System.ServiceModel.Syndication.targets",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-04-14T16:42:08.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T16:42:08.799Z"
             },
             {
               "$type": "Document",
@@ -90,8 +87,7 @@
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSReader\\RSSReader\\RSSReader\\MainWindow.xaml",
               "RelativeToolTip": "RSSReader\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-14T15:58:08.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T15:58:08.013Z"
             }
           ]
         }
