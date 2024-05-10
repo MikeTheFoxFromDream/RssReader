@@ -4,7 +4,7 @@ using System.ServiceModel.Syndication;
 
 namespace RSSReader;
 
-public class FeedSetup
+public static class FeedSetup
 {
     public static List<SyndicationItem> FeedDownload(string[] url)
     {

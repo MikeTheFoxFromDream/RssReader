@@ -19,12 +19,18 @@
         </Grid.RowDefinitions>
 
 
-        <ListView Grid.Row="0" Grid.RowSpan="2" Background="#FF3A3838" BorderBrush="#FF3A3838" VerticalContentAlignment="Top" BorderThickness="0">
-        </ListView>
+        <ListView Grid.Row="0" Grid.RowSpan="2" Background="#FF3A3838"
+                  BorderBrush="#FF3A3838"
+                  VerticalContentAlignment="Top" BorderThickness="0"
+                  ItemContainerStyle="{StaticResource TopicCard}"
+                  Name="lvEntries"
+                  Padding="0,5,0,0" />
 
-        
-        
-        <Button Grid.Row="2" Background="#FF515050" Foreground="White" FontFamily="Arial" FontSize="18" BorderThickness="0">
+
+
+        <Button Grid.Row="2" Background="#FF515050"
+                Foreground="White" FontFamily="Arial"
+                FontSize="18" BorderThickness="0">
             Nové téma
         </Button>
 
@@ -32,10 +38,8 @@
 
         </Border>
 
-        <ListView Grid.Row="1" Grid.RowSpan="2" Grid.Column="1" Background="#FF292727" BorderThickness="0">
-            <ListView.BorderBrush>
-                <SolidColorBrush Color="#FF292727" Opacity="0"/>
-            </ListView.BorderBrush>
+        <ListView Grid.Row="1" Grid.RowSpan="2" Grid.Column="1"
+                  Background="#FF292727" BorderThickness="0">
 
         </ListView>
 

@@ -3,7 +3,7 @@
     <Style TargetType="ListViewItem" x:Key="TopicCard">
         <Style.Triggers>
             <Trigger Property="IsSelected" Value="True">
-                <Setter Property="Background" Value="#FF515050"/>
+                <Setter Property="Background" Value="#171717"/>
             </Trigger>
         </Style.Triggers>
 
@@ -13,10 +13,14 @@
             <Setter.Value>
                 <ControlTemplate TargetType="ListViewItem">
                     <Border Background="{TemplateBinding Background}"
-                            Height="50" 
-                            Margin="8,2,8,2" HorizontalAlignment="Center" VerticalAlignment="Center" ScrollViewer.VerticalScrollBarVisibility="Disabled" FlowDirection="RightToLeft">
+                            Height="30" 
+                            HorizontalAlignment="Stretch"
+                            Margin="8,4,8,4" VerticalAlignment="Center"
+                            ScrollViewer.VerticalScrollBarVisibility="Disabled"
+                            FlowDirection="RightToLeft">
 
-                        <Label Foreground="White" Content="{Binding TopicName}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        <Label Foreground="White" Content="{Binding Name}"
+                               HorizontalAlignment="Center"/>
 
                     </Border>
                 </ControlTemplate>
