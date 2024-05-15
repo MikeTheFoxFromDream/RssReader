@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H9R0XgAdDUjrm0x14mn+63cPw/1DP5A4D/CmNw2NgVmlE9zYE50w+sH6MHPaXLqFwkmNcz7E67GsEcU4AkVg7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\RSSCtecka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\system.servicemodel.syndication\\8.0.0\\system.servicemodel.syndication.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

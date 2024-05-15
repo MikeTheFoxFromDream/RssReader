@@ -1,0 +1,39 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    x:Class="RSSCtecka.styles.UrlCard">
+    <Style TargetType="ListViewItem" x:Key="UrlCard">
+
+        <Setter Property="Background" Value="White"/>
+
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="ListViewItem">
+                    <Border Background="{TemplateBinding Background}"
+                        Height="30" 
+                        HorizontalAlignment="Stretch"
+                        Margin="0,1,1,1" VerticalAlignment="Center"
+                        ScrollViewer.VerticalScrollBarVisibility="Disabled"
+                        FlowDirection="LeftToRight" BorderBrush="Black" BorderThickness="1">
+
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="15*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <Label Foreground="Black" Content="{Binding .}" Padding="5, 0"
+                            HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="0"/>
+
+                            <Button x:Name="DeleteButton" Grid.Column="1" Foreground="White"
+                                Background="Red" BorderThickness="1" BorderBrush="Red" Content="✕"
+                                Click="DeleteThisUrl"/>
+                        </Grid>
+
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+
+    </Style>
+
+</ResourceDictionary>

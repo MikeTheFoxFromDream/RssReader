@@ -1,0 +1,46 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style TargetType="ListViewItem" x:Key="ArticleCard">
+        <Style.Triggers>
+            <Trigger Property="IsSelected" Value="True">
+                <Setter Property="Background" Value="#171717"/>
+            </Trigger>
+        </Style.Triggers>
+
+        <Setter Property="Background" Value="#FF292727"/>
+
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="ListViewItem">
+                    <Border Background="{TemplateBinding Background}"
+                        Height="75" 
+                        HorizontalAlignment="Stretch"
+                        Margin="0,1,1,1" VerticalAlignment="Center"
+                        ScrollViewer.VerticalScrollBarVisibility="Disabled"
+                        FlowDirection="LeftToRight">
+
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="5*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <Image Grid.Column="0"  Source="{Binding ImgSource}" VerticalAlignment="Stretch" HorizontalAlignment="Left"/>
+
+                            <Label Grid.Column="1" Foreground="White" Content="{Binding Title}"
+                            HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                            <Label Grid.Column="2" Foreground="White" Content="{Binding Name}"
+                            HorizontalAlignment="Left" VerticalAlignment="Bottom"/>
+
+                        </Grid>
+
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+
+    </Style>
+
+</ResourceDictionary>
