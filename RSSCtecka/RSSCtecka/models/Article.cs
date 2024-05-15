@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.WebRequestMethods;
 
 namespace RSSCtecka.models
 {
@@ -20,7 +21,7 @@ namespace RSSCtecka.models
             Title = title;
             PublishDate = date;
             Url = url;
-            ImgSource = "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\src\\img.jpg";
+            ImgSource = "https://t3.ftcdn.net/jpg/05/31/99/72/360_F_531997233_Uo7u6Cwj2qjtREfv11x7kkMyk53mTku7.jpg";
         }
     }
 }

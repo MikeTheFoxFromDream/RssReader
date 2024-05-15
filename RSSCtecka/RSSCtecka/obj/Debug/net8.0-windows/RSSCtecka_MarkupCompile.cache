@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Admin\source\repos\RSSCtecka\RSSCtecka\obj\Debug\net8.0-windows\
+C:\Users\Admin\Documents\GitHub\RssReader\RSSCtecka\RSSCtecka\obj\Debug\net8.0-windows\
 RSSCtecka
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\Admin\source\repos\RSSCtecka\RSSCtecka\App.xaml
-81468541451
+C:\Users\Admin\Documents\GitHub\RssReader\RSSCtecka\RSSCtecka\App.xaml
+7-986861980
 
-141675950322
+131290976703
 199587902689
-AddNewTopic.xaml;MainWindow.xaml;NewUrl.xaml;SetThisTopicUp.xaml;styles\ArticleCard.xaml;styles\TopicCard.xaml;styles\UrlCard.xaml;TopicSettings.xaml;
+AddNewTopic.xaml;MainWindow.xaml;NewUrl.xaml;styles\ArticleCard.xaml;styles\TopicCard.xaml;styles\UrlCard.xaml;TopicSettings.xaml;
 
 False
 

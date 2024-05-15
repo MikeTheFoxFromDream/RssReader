@@ -52,7 +52,7 @@ namespace RSSCtecka.styles {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/RSSCtecka;V1.0.0.0;component/styles/urlcard.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/RSSCtecka;component/styles/urlcard.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\styles\UrlCard.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

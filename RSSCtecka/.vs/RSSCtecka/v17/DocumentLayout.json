@@ -1,41 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\source\\repos\\rssctecka\\rssctecka\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|solutionrelative:rssctecka\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\source\\repos\\rssctecka\\rssctecka\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|solutionrelative:rssctecka\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\source\\repos\\rssctecka\\rssctecka\\topics\\test\\datetime.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|solutionrelative:rssctecka\\topics\\test\\datetime.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\source\\repos\\rssctecka\\rssctecka\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|solutionrelative:rssctecka\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\source\\repos\\rssctecka\\rssctecka\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\documents\\github\\rssreader\\rssctecka\\rssctecka\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|solutionrelative:rssctecka\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\source\\repos\\rssctecka\\rssctecka\\uti\\feedsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\documents\\github\\rssreader\\rssctecka\\rssctecka\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|solutionrelative:rssctecka\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\documents\\github\\rssreader\\rssctecka\\rssctecka\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|solutionrelative:rssctecka\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\documents\\github\\rssreader\\rssctecka\\rssctecka\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|solutionrelative:rssctecka\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\documents\\github\\rssreader\\rssctecka\\rssctecka\\topics\\test\\datetime.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|solutionrelative:rssctecka\\topics\\test\\datetime.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\documents\\github\\rssreader\\rssctecka\\rssctecka\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|solutionrelative:rssctecka\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\documents\\github\\rssreader\\rssctecka\\rssctecka\\uti\\feedsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|solutionrelative:rssctecka\\uti\\feedsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\source\\repos\\rssctecka\\rssctecka\\uti\\observablelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\documents\\github\\rssreader\\rssctecka\\rssctecka\\uti\\observablelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|solutionrelative:rssctecka\\uti\\observablelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\source\\repos\\rssctecka\\rssctecka\\topics\\test\\url.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\documents\\github\\rssreader\\rssctecka\\rssctecka\\topics\\test\\url.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|solutionrelative:rssctecka\\topics\\test\\url.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\source\\repos\\rssctecka\\rssctecka\\topicsettings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|c:\\users\\admin\\documents\\github\\rssreader\\rssctecka\\rssctecka\\topicsettings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BD55231-C2F1-45A2-B0AE-538D6BCA6988}|RSSCtecka\\RSSCtecka.csproj|solutionrelative:rssctecka\\topicsettings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,11 +58,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "RSSCtecka\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\AssemblyInfo.cs",
+              "RelativeToolTip": "RSSCtecka\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:10:24.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Topic.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\models\\Topic.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\models\\Topic.cs",
               "RelativeDocumentMoniker": "RSSCtecka\\models\\Topic.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\models\\Topic.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\models\\Topic.cs",
               "RelativeToolTip": "RSSCtecka\\models\\Topic.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAAADMAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -66,11 +83,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ObservableList.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\Uti\\ObservableList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\Uti\\ObservableList.cs",
               "RelativeDocumentMoniker": "RSSCtecka\\Uti\\ObservableList.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\Uti\\ObservableList.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\Uti\\ObservableList.cs",
               "RelativeToolTip": "RSSCtecka\\Uti\\ObservableList.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,11 +95,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "dateTime.txt",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\topics\\Test\\dateTime.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\topics\\Test\\dateTime.txt",
               "RelativeDocumentMoniker": "RSSCtecka\\topics\\Test\\dateTime.txt",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\topics\\Test\\dateTime.txt",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\topics\\Test\\dateTime.txt",
               "RelativeToolTip": "RSSCtecka\\topics\\Test\\dateTime.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -90,11 +107,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FeedSetup.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\Uti\\FeedSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\Uti\\FeedSetup.cs",
               "RelativeDocumentMoniker": "RSSCtecka\\Uti\\FeedSetup.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\Uti\\FeedSetup.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\Uti\\FeedSetup.cs",
               "RelativeToolTip": "RSSCtecka\\Uti\\FeedSetup.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAAABwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,23 +119,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Article.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\models\\Article.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\models\\Article.cs",
               "RelativeDocumentMoniker": "RSSCtecka\\models\\Article.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\models\\Article.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\models\\Article.cs",
               "RelativeToolTip": "RSSCtecka\\models\\Article.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAIA9wBAAAABLAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAIA7wBcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T04:57:06.212Z"
+              "WhenOpened": "2024-05-15T04:57:06.212Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "url.txt",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\topics\\Test\\url.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\topics\\Test\\url.txt",
               "RelativeDocumentMoniker": "RSSCtecka\\topics\\Test\\url.txt",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\topics\\Test\\url.txt",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\topics\\Test\\url.txt",
               "RelativeToolTip": "RSSCtecka\\topics\\Test\\url.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -126,11 +144,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "RSSCtecka\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\MainWindow.xaml.cs",
               "RelativeToolTip": "RSSCtecka\\MainWindow.xaml.cs",
               "ViewState": "AQIAAE0AAAAAAAAAAAAwwFgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,22 +157,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\MainWindow.xaml",
               "RelativeDocumentMoniker": "RSSCtecka\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\MainWindow.xaml",
               "RelativeToolTip": "RSSCtecka\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-15T04:08:05.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "TopicSettings.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\TopicSettings.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\TopicSettings.xaml.cs",
               "RelativeDocumentMoniker": "RSSCtecka\\TopicSettings.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RSSCtecka\\RSSCtecka\\TopicSettings.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\RssReader\\RSSCtecka\\RSSCtecka\\TopicSettings.xaml.cs",
               "RelativeToolTip": "RSSCtecka\\TopicSettings.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
